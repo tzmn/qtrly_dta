@@ -1,0 +1,4 @@
+```{r}
+read.csv(file.choose())
+```
+
